@@ -1,7 +1,7 @@
 ### Hello, I've moved...
 
-I'm moving my repos to my own website: http://ratfactor.com/repos
+I'm moving my repos elsewhere, the current location can be found using this link: http://jollo.org/LNT/home/fanfare/git.html
 
 Don't worry, the repositories are also still here, but I've set them to read-only ("archived").
 
-Thanks, Dave
+Thanks, fanfare
